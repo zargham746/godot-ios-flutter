@@ -1,16 +1,12 @@
 # godot_ios_flutter
 
-A new Flutter project.
+In this project, i have tried to connect swift and godot and i have used method channels in flutter to communicative between flutter and native ios.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Copy the Repo Link
+2. Clone it in the VS code.
+3. Run pub get to get all the dependencies
+4. There you go, build and run the project.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
